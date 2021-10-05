@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sinthiya Akter",
+        "img": "https://i.pinimg.com/564x/f6/16/95/f616951a920ed81bf230d258a2782fa7.jpg",
+        "comment": "this is the besst coaching center i have ever seen. i have learned a lot from here."
+    },
+    {
+        "id": 2,
+        "name": "Abdus Salam",
+        "img": "https://i.pinimg.com/736x/c5/d3/16/c5d3162df014d73a5146f80c13e24651.jpg",
+        "comment": "i hope this coaching will be the best in bangladesh . good teaching system and outstanding support"
+    },
+    {
+        "id": 3,
+        "name": "Salma khatun",
+        "img": "https://wallpaperaccess.com/full/3793392.jpg",
+        "comment": "this coaching changed my life. they are awesome. the teachers are very friendly "
+    },
+    {
+        "id": 4,
+        "name": "Ayesha siddika",
+        "img": "https://wallpapercave.com/wp/wp7235163.jpg",
+        "comment": "this is the besst coaching center i have ever seen. i have learned a lot from here. "
+    },
+    {
+        "id": 5,
+        "name": "Nazmul haque",
+        "img": "https://asset1.modelmanagement.com/mm-eyJ0Ijp7ImMiOnsieCI6/IjExNTciLCJ5IjoiOTY0/IiwibCI6IjI0NDIiLCJo/IjoiMzI1NyJ9LCJyIjp7/ImwiOiIxNDEiLCJoIjoi/MTg5In19LCJpZCI6Imk3/NjY2OTk2IiwiZiI6Impw/ZyJ9.jpg",
+        "comment": "i hope this coaching will be the best in bangladesh . good teaching system and outstanding support"
+    },
+    {
+        "id": 6,
+        "name": "Shamima Islam",
+        "img": "https://pbs.twimg.com/profile_images/847822940351721473/exJNvx8m_400x400.jpg",
+        "comment": "this coaching changed my life. they are awesome. the teachers are very friendly "
+    }
+]

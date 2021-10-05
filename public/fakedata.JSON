@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Bangla 2nd paper class 9-10",
+        "price": 2000,
+        "img": "https://www.studentscaring.com/wp-content/uploads/2019/12/Bengali-Grammar-Book-PDF-Download-800x445.png",
+        "duration": 3
+    },
+    {
+        "id": 2,
+        "name": "Bangla for all job",
+        "price": 3000,
+        "img": "https://careerbd.com.bd/wp-content/uploads/2021/04/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%A8-careerbd.com_.bd_.jpg",
+        "duration": 4
+    },
+    {
+        "id": 3,
+        "name": "Basic Math class 5-10",
+        "price": 5000,
+        "img": "https://www.digitalstudyroom.com/storage/upload/courses/86/86.png",
+        "duration": 6
+    },
+    {
+        "id": 4,
+        "name": "Advanced math for bank job",
+        "price": 6000,
+        "img": "https://play-lh.googleusercontent.com/NMIl2P3GzfI7yxgWmECl3_5Lf4tXfZsQBUZzx-pMo7rU5l1sQ_xlaumesTadkt4iKA=w412-h220-rw",
+        "duration": 6
+    },
+    {
+        "id": 5,
+        "name": "basic 'english for job preparetion",
+        "price": 3000,
+        "img": "https://sonatondaradda.com/wp-content/uploads/2019/04/BCS-English-Questions-Suggestions-00-%E0%A6%B8%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BE.jpg",
+        "duration": 4
+    },
+    {
+        "id": 6,
+        "name": "English literature",
+        "price": 2500,
+        "img": "https://careerbd.com.bd/wp-content/uploads/2021/04/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%A8-careerbd.com_.bd_.jpg",
+        "duration": 3
+    },
+    {
+        "id": 7,
+        "name": "Genaral knowledge about Bangladesh",
+        "price": 1000,
+        "img": "https://www.digitalstudyroom.com/storage/upload/courses/86/86.png",
+        "duration": 2
+    },
+    {
+        "id": 8,
+        "name": "Super English spoken course",
+        "price": 3000,
+        "img": "https://play-lh.googleusercontent.com/NMIl2P3GzfI7yxgWmECl3_5Lf4tXfZsQBUZzx-pMo7rU5l1sQ_xlaumesTadkt4iKA=w412-h220-rw",
+        "duration": 4
+    },
+    {
+        "id": 9,
+        "name": "Principles of accounting",
+        "price": 2000,
+        "img": "https://www.studentscaring.com/wp-content/uploads/2019/12/Bengali-Grammar-Book-PDF-Download-800x445.png?189db0&189db0",
+        "duration": 3
+    }
+]

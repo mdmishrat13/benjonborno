@@ -1,23 +1,42 @@
-import logo from './logo.svg';
 import './App.css';
+// import Courses from './Courses/Courses';
+import Testemonial from './Testemonial/Testemonial';
+import Header from './Header/Header';
+import Footer from './Footer/Footer';
+import Home from './Home/Home';
+import About from './About/About';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import NotFound from './NotFound/NotFound';
+import AllCourses from './AllCourses/AllCourses';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Header></Header>
+        <Switch>
+          <Route path="/home">
+            <Home></Home>
+          </Route>
+          <Route path="/courses">
+            <AllCourses></AllCourses>
+          </Route>
+          <Route path="/testemonial">
+            <Testemonial></Testemonial>
+          </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
+          <Route exact path="/">
+            <Home></Home>
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
+          </Route>
+        </Switch>
+        <Footer></Footer>
+      </Router>
     </div>
   );
 }

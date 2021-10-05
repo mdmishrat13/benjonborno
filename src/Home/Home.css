@@ -1,0 +1,11 @@
+.main-container{
+    background-color: #E6E6FA;
+}
+.card-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.slider img{
+    height: 500px;
+}
